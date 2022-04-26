@@ -1,0 +1,9 @@
+.class01 button{
+    text-decoration: none;
+    background: rgb(90, 44, 197);
+    border: 0px;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    color: white;
+}
